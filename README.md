@@ -9,3 +9,5 @@ Use &lt;SPACE&gt; to scroll. \
 Note: the length of your kill ring is controlled by the variable 'kill-ring-max'.
 
 Just copy to your .emacs file.
+
+https://www.emacswiki.org/emacs/view-kill.el
